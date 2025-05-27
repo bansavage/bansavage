@@ -1,6 +1,11 @@
-![404](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJmYmFhNDg5a2w1aHZkYTBjZXFiYzd2enR3M2E3azNleTlraTkzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gPIkEyBAS5R9Q39n8e/giphy.gif)
+![bansavage logo](https://kylebansavage.com/images/bansavage-black.png)
+
+# Luxury Digital Developer
+Currently leading development for Myntr Commerce
 
 <!--
+![404](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJmYmFhNDg5a2w1aHZkYTBjZXFiYzd2enR3M2E3azNleTlraTkzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gPIkEyBAS5R9Q39n8e/giphy.gif)
+
 **bansavage/bansavage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
