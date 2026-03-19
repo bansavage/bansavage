@@ -1,13 +1,8 @@
 ![bansavage logo](https://kylebansavage.com/images/bansavage-black.png)
 
-# Web Solutions Partner
-Founder @ [Bansavage Digital](https://bansavage.dev)
-
-Tech Director @ [Myntr Commerce](https://myntr.io)
-
-Solutions @ [Ordergroove]([https://bansavage.dev](https://ordergroove.com/))
-
-Get in touch.
+## Founder @ [Bansavage Digital](https://bansavage.dev)
+## Tech Director @ [Myntr Commerce](https://myntr.io)
+## Solutions @ [Ordergroove](https://ordergroove.com)
 
 
 <!--
