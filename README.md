@@ -1,7 +1,12 @@
 ![bansavage logo](https://kylebansavage.com/images/bansavage-black.png)
 
-# Luxury Digital Developer
-Currently leading development for Myntr Commerce
+# Web Solutions Partner
+Founder @ ![Bansavage Digital](https://bansavage.dev)
+Tech Director @ ![Myntr Commerce](https://myntr.io)
+Solutions @ ![Ordergroove]([https://bansavage.dev](https://ordergroove.com/))
+
+Get in touch.
+
 
 <!--
 ![404](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnJmYmFhNDg5a2w1aHZkYTBjZXFiYzd2enR3M2E3azNleTlraTkzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gPIkEyBAS5R9Q39n8e/giphy.gif)
