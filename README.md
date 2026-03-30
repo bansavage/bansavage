@@ -1,4 +1,4 @@
-![bansavage logo](https://kylebansavage.com/images/bansavage-black.png)
+![bansavage logo](https://bansavage.dev/images/bansavage-black.png)
 
 ## Founder @ [Bansavage Digital](https://bansavage.dev)
 ## Tech Director @ [Myntr Commerce](https://myntr.io)
