@@ -1,6 +1,6 @@
 ![bansavage logo](https://bansavage.dev/images/bansavage-black.png)
 
-## Founder @ [Bansavage Digital](https://bansavage.dev)
+## Founder @ [Bansavage](https://bansavage.dev)
 ## Tech Director @ [Myntr Commerce](https://myntr.io)
 ## Solutions @ [Ordergroove](https://ordergroove.com)
 
